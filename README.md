@@ -1,3 +1,3 @@
 # testrepo1
-#editing thr file
+# editing the file
 Its Thursday
